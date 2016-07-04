@@ -16,6 +16,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+a {
+  color: #ff8943;
+}
+
 .text-white {
   color: #fff;
 }
@@ -181,6 +185,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background-color: #ff8943;
 }
 
 .service-item {
